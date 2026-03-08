@@ -14,6 +14,8 @@ pip install yfinance pandas numpy scipy statsmodels
 
 | File | Post | What it does |
 |------|------|-------------|
+| [scripts/post02_survivorship_bias.py](scripts/post02_survivorship_bias.py) | [Your Fund Manager's Track Record Is a Magic Trick](https://trashpandaanalytics.substack.com) | Simulates 1,000 fund managers over 10 years to show how survivorship bias creates fake track records |
+| [notebooks/post02_survivorship_bias.ipynb](notebooks/post02_survivorship_bias.ipynb) | ↳ notebook version | Same simulation with inline output |
 
 More posts coming soon. Subscribe to the [newsletter](https://trashpandaanalytics.substack.com) to follow along.
 
