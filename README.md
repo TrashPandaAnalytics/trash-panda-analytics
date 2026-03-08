@@ -19,6 +19,9 @@ pip install yfinance pandas numpy scipy statsmodels
 | [scripts/post03_hindenburg.py](scripts/post03_hindenburg.py) | [The Hindenburg Omen](https://trashpandaanalytics.substack.com) | Backtests every Hindenburg Omen trigger since 1996 against actual forward returns |
 | [scripts/make_charts_hindenburg.py](scripts/make_charts_hindenburg.py) | ↳ chart generator | Builds animated stacked bar charts (daily/weekly/monthly windows) |
 | [notebooks/post03_hindenburg.ipynb](notebooks/post03_hindenburg.ipynb) | ↳ notebook version | Same backtest with inline output |
+| [scripts/post04_golden_cross.py](scripts/post04_golden_cross.py) | [I Backtested the Golden Cross So You Don't Have To](https://trashpandaanalytics.substack.com) | Backtests golden cross / death cross (50/200 SMA) on S&P 500 since 1970 |
+| [scripts/make_charts.py](scripts/make_charts.py) | ↳ chart generator | Builds animated stacked bar charts for golden cross forward returns |
+| [notebooks/post04_golden_cross.ipynb](notebooks/post04_golden_cross.ipynb) | ↳ notebook version | Same backtest with inline output |
 
 More posts coming soon. Subscribe to the [newsletter](https://trashpandaanalytics.substack.com) to follow along.
 
