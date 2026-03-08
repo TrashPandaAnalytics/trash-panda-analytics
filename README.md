@@ -16,6 +16,9 @@ pip install yfinance pandas numpy scipy statsmodels
 |------|------|-------------|
 | [scripts/post02_survivorship_bias.py](scripts/post02_survivorship_bias.py) | [Your Fund Manager's Track Record Is a Magic Trick](https://trashpandaanalytics.substack.com) | Simulates 1,000 fund managers over 10 years to show how survivorship bias creates fake track records |
 | [notebooks/post02_survivorship_bias.ipynb](notebooks/post02_survivorship_bias.ipynb) | ↳ notebook version | Same simulation with inline output |
+| [scripts/post03_hindenburg.py](scripts/post03_hindenburg.py) | [The Hindenburg Omen](https://trashpandaanalytics.substack.com) | Backtests every Hindenburg Omen trigger since 1996 against actual forward returns |
+| [scripts/make_charts_hindenburg.py](scripts/make_charts_hindenburg.py) | ↳ chart generator | Builds animated stacked bar charts (daily/weekly/monthly windows) |
+| [notebooks/post03_hindenburg.ipynb](notebooks/post03_hindenburg.ipynb) | ↳ notebook version | Same backtest with inline output |
 
 More posts coming soon. Subscribe to the [newsletter](https://trashpandaanalytics.substack.com) to follow along.
 
